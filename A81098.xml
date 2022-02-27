@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cruell and bloudy battaile, betwixt the VVeymarish and Hessish, and the Imperialists, the like hath not happened these many yeeres. Fought betwixt Collen and VVeesel, the 12. 22. of last moneth, where it pleased God to give the victory to the Weymarish and Hessish. The names of the commanders both slain and taken prisoners. The exceeding great feare and danger Collen is now in. A faire opportunity being now offered to recover the Palatinate againe, if friends were both ready and willing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81098</idno>
+            <idno type="STC">Wing C7416</idno>
+            <idno type="STC">Thomason E135_44</idno>
+            <idno type="STC">ESTC R11805</idno>
+            <idno type="EEBO-CITATION">99859141</idno>
+            <idno type="PROQUEST">99859141</idno>
+            <idno type="VID">156458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cruell and bloudy battaile, betwixt the VVeymarish and Hessish, and the Imperialists, the like hath not happened these many yeeres. Fought betwixt Collen and VVeesel, the 12. 22. of last moneth, where it pleased God to give the victory to the Weymarish and Hessish. The names of the commanders both slain and taken prisoners. The exceeding great feare and danger Collen is now in. A faire opportunity being now offered to recover the Palatinate againe, if friends were both ready and willing.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XLII [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Campaigns --  Germany --  Early works to 1800.</term>
+               <term>Germany --  History --  1618-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156458:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>A CRUELL AND BLOVDY BATTAILE, Betwixt the VVeymariſh and Heſsiſh, and the Imperialiſts, the like hath not happened theſe many yeeres.</p>
+            <p>Fought betwixt Collen and VVeeſel, the 12.22. of the laſt moneth, where it pleaſed God to give the victory to the Weymariſh and Heſſiſh.</p>
+            <p>The names of the Commanders both ſlain and taken priſoners. The exceeding great feare and danger Collen is now in.</p>
+            <p>
+               <hi>A faire opportunity being now offered to recover the Palatinate againe, if friends were both ready and willing.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for NATH: BUTTER. <hi>MDCXLII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:156458:2"/>
+            <!-- PDF PAGE 38 -->
+            <pb n="1" facs="tcp:156458:2"/>
+            <!-- PDF PAGE 38 -->
+            <div type="date">
+               <opener>
+                  <dateline>Hamborough <date>the 28. of Dec.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>He new Swediſh Generall <hi>Torſtenſehn</hi> is re<g ref="char:EOLhyphen"/>covered againe of the gowt, and is to break up now with his Army within few dayes: The King of Denmark is at Gluckſhut. In his Camp before this City remaine no more but two Regiments of Foot, and two Companies of Horſe, which are changed every moneth by turnes; the other Regiments are gone towards Krempe, Itzeho, Oldenſloe, Seaberg, New Munſter, and Kuhl, to their winter quar<g ref="char:EOLhyphen"/>ters. The Swediſh Generall Major <hi>Stollhans</hi> is ſent for to come to Sweden, becauſe he hath ſuffered himſelfe to be driven by the Imperialiſts out of Sileſia. Duke <hi>Francis Albrech</hi> of Saxon Lawenburg, commands the Imperiall Armie in thoſe parts, upon whom the Emperour hath be<g ref="char:EOLhyphen"/>ſtowed the Dukedome of Sagan.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Collen <date>the 6/16 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>ON Sunday laſt, the Wymarian Army, together with the Heſſiſh Forces, paſſed at Weſel over the Bridge, which they had laid over the Rhyne. It is reported that they have taken Ordingen, and aſſault now the City of Linn, at Ments, Orſoy and other places belonging to the States of Holland, great ſtore of bread is baked for them: Meane while the Imperialiſts draw all their Forces toge<g ref="char:EOLhyphen"/>ther. Gen: <hi>Lamboy</hi> with his Forces lyes at Huls and about Kempen, expecting there Field-marſhall <hi>Hatsſeld</hi> with his Troops. The other day the Elector of Collen ſent for Field-marſhall <hi>Hatsfeld,</hi> Biſhop of Oſnabrugge, and Generall <hi>Vehlen</hi> to keep Counſell of Warre about this buſineſſe. In all the Spaniſh Guarriſons they renounce the Neutrality with the Wymarians. In Venloe lye 3000. Spaniſh horſe and foot to aid and aſſiſt Lamboy in caſe of neceſſity. At this inſtant we receive the confirmation, that the Wymarian and Heſſiſh Armie about 12000. ſtrong is
+<pb n="2" facs="tcp:156458:3"/>
+                  <!-- PDF PAGE 39 -->paſſed neare Weſel the river of Rhine, and hath taken the City of Ordingen, where they put to the ſword 200. Im<g ref="char:EOLhyphen"/>periall ſouldiers: the Inhabitants for feare of the Wyma<g ref="char:EOLhyphen"/>rians flee hither from all places.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Another from Collen <date>the 7/17 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>IT is moſt certaine, that the Wymarian and Heſſiſh Ar<g ref="char:EOLhyphen"/>mie is paſſed the river of Rhine, and have taken by aſ<g ref="char:EOLhyphen"/>ſault the City of Ordingen: They are accounted 15000. ſtrong in all, together with the 2000. horſemen, and 1200. Muſquetiers of the Holland Forces that joyned with them. Col: <hi>Roſa,</hi> who went abroad with 3000. horſemen for forrage, lighted upon ſome of <hi>Lamboys</hi> Troops, that were under the command of Col: <hi>Hemmersbach,</hi> which he char<g ref="char:EOLhyphen"/>ged, and totally routed.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Baſel <date>the 5/15 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>IT is moſt certaine, that on Friday laſt, Gen: Major Er<g ref="char:EOLhyphen"/>lach, Governour of Breſſack, and Baron de Oiſſon ville, have relieved the Fort of Hohenwiel, for being the Gover<g ref="char:EOLhyphen"/>nour in it. Colonel <hi>Widerholt</hi> ſallied at that time likewiſe out of the Fort, and did great harme amongſt the Imperi<g ref="char:EOLhyphen"/>aliſts, they betook themſelves to flight: The high Dutch and French horſemen are yet purſuing after them. They took their retreat towards Zell, leaving behind them ſixe Peeces of Ordnance, great ſtore of ammunition, and all their proviſion: the aboveſaid <hi>Erlach</hi> is now in the Fort, and provides the ſame againe with all neceſſaries: Meane while his horſemen run as far as Conſtance, and pilladge all the villages thereabouts. <hi>Oiſſon ville</hi> is going by way of Shaffhauſen and Solothum for Paris.</p>
+            </div>
+            <div type="date">
+               <pb n="3" facs="tcp:156458:3"/>
+               <!-- PDF PAGE 39 -->
+               <opener>
+                  <dateline>Collen <date>the 9/19 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>THe other day, the Wymarian Army, after that it had taken Ordingen and Linne, marched directly againſt Gen: <hi>Lamboy,</hi> who lay with his Armie upon S. <hi>Anthonies</hi> Plaine, with whom they encountred, and totally routed and defeated him: In which battaile the moſt part of the Imperiall Infanterie was either ſlaine or taken priſoners, the reſt ſled with the Cavallerie towards Kempen, leaving behind them nine Peeces of Ordnance. Generall <hi>Lamboy</hi> himſelfe is ſhrewdly wounded, and taken Priſoner. At this inſtant we receive Let<g ref="char:EOLhyphen"/>ters from Duſſeldorp, which were written but yeſterday, which cannot ſufficienly expreſſe the great and miſerable fight both of Spirituall and Temporall perſons from Neus, Keyſerſwerth, and other places, all which confirme the totall overthrow of Generall <hi>Lamboy,</hi> and in ſuch a manner, that his Infanterie and Cavallerie is totally diſperſed: <hi>Lamboy</hi> and the moſt part of the high Officers are either ſlaine or taken priſoners, and the Wymarians obtained all their Artillerie, ammunition, and took above 4000. priſoners, and withall obtained almoſt as many horſes, many Standards and Enſignes.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Aaken <date>the 12/22 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>THe Imperiall Generall <hi>Lamboy</hi> having received intelli<g ref="char:EOLhyphen"/>gence that the Wymarian Armie had taken Ordingen, together with the City and Caſtle of Lin, and were comming from thence towards him, poſſeſſed himſelfe, for his advan<g ref="char:EOLhyphen"/>tage, neere Huls, betwixt Kempen and Old Kirck, of a faire plot of ground, being ſurrounded with a very high breaſt-work, in manner of a trench, where he planted his Ordnance, amongſt which were foure demi-Canons, upon ſome high ground croſſe-wiſe, round about the aforeſaid breaſt-work, lay the Muſquetiers and fire-logs, and on the ſides of the Camp ſtood the Cavallarie in 2 wings, and betwixt both wings 2. Regi<g ref="char:EOLhyphen"/>ments of Infanterie, in ſo brave an order as ever was ſeen. The Wymarians comming the 7.17. of this moneth before the Camp, begun about 8. in the morning to charge the Imperialiſts,
+<pb n="2" facs="tcp:156458:4"/>
+                  <!-- PDF PAGE 40 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:156458:4"/>
+                  <!-- PDF PAGE 40 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:156458:5"/>
+                  <!-- PDF PAGE 41 -->and to play with their Canons, and about noone they came with their maine body up to the front of <hi>Lamboys</hi> Army: At which time they fought ſo furiouſly on both ſides, that it was very doubtfull, on whoſe ſide the victory would fall: at laſt the Wymarians, upon nearer intelligence given unto them by a Country man where the breaſt work was weakeſt of all, preſſed with ſuch a fury thitherwards, that <hi>Lamboys</hi> men begun to re<g ref="char:EOLhyphen"/>tire; and about three of the clock in the afternoon they were brought into diſorder, and then the Wymarians begun to knock them down; thoſe that called for quarter in time, ſaved their lives: The Cavallerie found it ſelfe environed, that they could not break through; thoſe that fled towards Neet, were all fetcht back again; but thoſe that fled towards Gelder and Ven<g ref="char:EOLhyphen"/>loe, ſaved themſelves. It is generally beleeved, that not above 12. Companies of Horſe in all eſcaped: Thoſe that were ſlain, amount to the number of about 3000. men, and the number of the Priſoners amounts to above 4000. Of the Wymarians were not above 400. ſlain, amongſt which is Col: <hi>Flerſheim.</hi> At this inſtant we receive certaine aviſees, that the Cities of Kempen, Dormagen, Woeringen and Sons are ſurrendred unto the Wy<g ref="char:EOLhyphen"/>marians, and that thereupon they have begirded the City of Neus: In the City of Kempen they have obtained above 3000. ſacks with corn, beſides a very rich booty of other goods, the like was never ſeen, what flying there is of the Inhabitants from morning till evening into Collen: The Wymarians ſtruggle already to the very gates of Collen: In the ſaid City they beat the drums day and night to take up freſh ſouldiers, but they can get very few that will ſerve, becauſe they run all to the Wymarians. The Biſhop of Collen himſelfe in perſon is re<g ref="char:EOLhyphen"/>tired to Hermerſhein.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Collen <date>the 13/23 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>THe great overthrow of <hi>Lamboy</hi> is confirmed, and it is moſt certaine, that the whole Armie, as well Infanterie as Ca<g ref="char:EOLhyphen"/>vallerie is ruinated: The Wymarians have taken Priſoners Gen: <hi>Lamboy,</hi> Gen: Major <hi>Mercy,</hi> Baron of Vehlen, Col: <hi>Dunckel,</hi> Col: <hi>Iſaack,</hi> Col: <hi>Hemmersbach,</hi> Col: <hi>Bicht,</hi> Col:
+<pb n="5" facs="tcp:156458:5"/>
+                  <!-- PDF PAGE 41 -->
+                  <hi>Hinderſon,</hi> Col: <hi>Hyacinto di vera,</hi> Col: <hi>Cryſti,</hi> Col: <hi>Rodoan,</hi> Col: <hi>Ladron,</hi> Col: <hi>Eppe,</hi> Col: <hi>Hennins.</hi> The names of thoſe that are ſlaine, are Col: <hi>Gonzago,</hi> Col: <hi>la Riviere,</hi> Col: <hi>Savery,</hi> Col: <hi>Paradyſer,</hi> Col: <hi>Franchipanï,</hi> the Lieutenant Col: of the old Beckiſh Regiment, Col: <hi>Buttelberg,</hi> Col: <hi>Griſenay,</hi> and Lieutenant Col: <hi>Hunds.</hi> In a word, all the Colonels, excepting Colonell <hi>Zell,</hi> are either ſlaine or taken priſoners, beſides an exceeding great number of Lieutenants, Colonels, Serjeant Majors, Captains of Horſe and Foot, and other Officers, and above 4000. common ſouldiers are taken priſoners. In this battaile the Imperialiſts loſt all their baggage, Artillery, Am<g ref="char:EOLhyphen"/>munition, 64. Enſignes, and 40. Standards. It hath beene a moſt cruell and bloody fight. <hi>Lamboy</hi> hath deſired that hee might be carryed Priſoner firſt to <hi>Maſtricht,</hi> which <hi>Conte de Guebrian</hi> granted unto him: From thence he is to be carryed to Rotterdam, and ſo for France. After this victory, the Wyma<g ref="char:EOLhyphen"/>rians came before Kempen, which they took preſently, and made the Inhabitants pay 15000. Rixdallers for pillaging. The 10.20. of January, 600. Heſſiſh horſemen went neere Hulekrath, through the river of Erfft, ſurprized at Dormagen 300. Dragooners, that had eſcaped out of the battaile, and totally routed them, that not 18. of them eſcaped. The other day, they begirded the City of <hi>Neus,</hi> which as it is reported, hath begun already to parlie. Grevenbruck, Caſter, and other places are likewiſe ſurrendred unto the Wymarians. The Swe<g ref="char:EOLhyphen"/>diſh Army under Gen: <hi>Torſtenſon</hi> is likewiſe broke up, and marching towards Garlelen, in the old Marquiſate of Bran<g ref="char:EOLhyphen"/>denburg: which way it will farther take, we ſhall heare in time. The Imperialiſts are to take their winter quarter in Miſina.</p>
+            </div>
+            <div type="date">
+               <opener>
+                  <dateline>Amſterdam <date>the 17/27 of Jan.</date>
+                  </dateline>
+               </opener>
+               <p>THe 4000. Imperialiſts that were taken Priſoners in the battaile, have all taken pay under the Wymarians. Since this great overthrow of <hi>Lamboy,</hi> the Wymarians have like<g ref="char:EOLhyphen"/>wiſe taken the City of Nens, and are purſuing now after Field-marſhall <hi>Hatsfeld</hi> and his Forces. 70. Companies of
+<pb n="6" facs="tcp:156458:6"/>
+                  <!-- PDF PAGE 42 -->Spaniſh horſemen are marching now to ſuccour the ſaid <hi>Hats<g ref="char:EOLhyphen"/>feld,</hi> wherefore 6000. Horſe and Foot of the States Forces, which are paid by the King of France, lye ready to ſuccour the Wymarians, as ſoone as they receive order. Ten Regiments more are comming from France towards Maſtricht, which are likewiſe to joyne with the Wymarian Armie. I received Let<g ref="char:EOLhyphen"/>ters from <hi>le Conte de Guebrian,</hi> Gen: of the Wymarian Armie, who writes that his Armie is now complete 16. à 17000. ſtrong, becauſe ſince the battaile their Armie is grown above 5000. ſtronger. In Dormagen, which lyes but two Dutch miles from Collen, they have ſurprized and totally ruinated a Regiment of Dragooners of <hi>Hatsfeld</hi> his Forces, whereupon the reſt of his Armie retired towards Coblentz. 6000. Heſſiſh and Wymarian Horſemen are paſſed by Collen, in purſuit of <hi>Hatsfeld.</hi> The Swediſh Generall <hi>Torſtenſohn</hi> lyes with his Ar<g ref="char:EOLhyphen"/>mie yet about <hi>Garleben,</hi> in the old Marquiſate of Brandenburg. Upon the hearing of this good newes, it is not doubted but he will likewiſe further advance, becauſe the Elector of Collen hath ſent to Piccolomini for ſome aid to ſuccour <hi>Hatsfeld,</hi> who is not above 4000. ſtrong. Of the reſtitution of the Palatinate upon faire termes, is little hope. It is ſaid, that the Ambaſſa<g ref="char:EOLhyphen"/>dours will ſhortly come back againe from Vienna, without any expedition. The Spaniſh Fleet is ruinated againe by the Portu<g ref="char:EOLhyphen"/>gall, and our Fleet, whereof they have ſunke 8<g ref="char:punc">▪</g> of the Ships, and the reſt fled againe into Calis <hi>malis.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
